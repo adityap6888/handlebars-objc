@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/Bertrand/handlebars-objc.svg?branch=master)](https://travis-ci.org/Bertrand/handlebars-objc)
 
-handlebars-objc
+Handlebars-objc
 ===============
 
-handlebars-objc is a feature complete implementation of Handlebars.js v2.0 for Objective-C that is and will remain 100% compatible with the Javascript version. 
+Handlebars-objc is a feature complete implementation of Handlebars.js v2.0 for Objective-C that is and will remain 100% compatible with the Javascript version. 
 
 
 What is Handlebars?
